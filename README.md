@@ -1,2 +1,2 @@
 # GIT
-Using this repository to learn git and github connection
+Using this repository to learn git and github connection.
